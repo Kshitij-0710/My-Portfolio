@@ -12,6 +12,24 @@ export const techCardsItems = [
     bgColor: "bg-[#3178C6]/20",
   },
   {
+    name: "AWS",
+    description: "Cloud Platform",
+    imageUrl: "/imgs/logos/awsd.png",
+    bgColor: "bg-[#FF9900]/20",
+  },
+  {
+    name: "Docker",
+    description: "Container Runtime",
+    imageUrl: "/imgs/logos/docker.png",
+    bgColor: "bg-[#0C344B]/20",
+  },
+  {
+    name: "Git",
+    description: "Version control",
+    imageUrl: "/imgs/logos/git.svg",
+    bgColor: "bg-[#F1502F]/20",
+  },
+  {
     name: "React",
     description: "JavaScript Library",
     imageUrl: "/imgs/logos/react.svg",
@@ -24,46 +42,23 @@ export const techCardsItems = [
     bgColor: "bg-dark-200/10 dark:bg-white/10",
   },
   {
-    name: "Tailwind",
-    description: "CSS framework",
-    imageUrl: "/imgs/logos/tailwind.svg",
-    bgColor: "bg-[#0EA5E9]/20",
-  },
-  {
-    name: "Git",
-    description: "Version control",
-    imageUrl: "/imgs/logos/git.svg",
-    bgColor: "bg-[#F1502F]/20",
-  },
-  {
-    name: "Supabase",
-    description: "Backend tool",
-    imageUrl: "/imgs/logos/supabase.svg",
-    bgColor: "bg-[#3ECF8E]/20",
-  },
-  {
     name: "NodeJS",
     description: "Backend",
     imageUrl: "/imgs/logos/node-js.svg",
     bgColor: "bg-[#689F63]/30",
   },
   {
-    name: "MongoDB",
-    description: "NoSQL database",
-    imageUrl: "/imgs/logos/mongodb.svg",
-    bgColor: "bg-[#599636]/30",
+    name: "Google Cloud",
+    description: "Cloud Platform",
+    imageUrl: "/imgs/logos/gcp.png",
+    bgColor: "bg-[#4285F4]/20",
   },
+  
   {
-    name: "Docker",
-    description: "Container Runtime",
-    imageUrl: "/imgs/logos/docker.png",
-    bgColor: "bg-[#0C344B]/20",
-  },
-  {
-    name: "PostgreSQL",
-    description: "OR database system",
-    imageUrl: "/imgs/logos/postgresql.svg",
-    bgColor: "bg-[#336791]/20",
+    name: "Python",
+    description: "Programming Language",
+    imageUrl: "/imgs/logos/python.png",
+    bgColor: "bg-[#3776AB]/20",
   },
   {
     name: "Express.js",
@@ -72,10 +67,22 @@ export const techCardsItems = [
     bgColor: "bg-[#000000]/10 dark:bg-white/10",
   },
   {
-    name: "Python",
-    description: "Programming Language",
-    imageUrl: "/imgs/logos/python.png",
-    bgColor: "bg-[#3776AB]/20",
+    name: "Tailwind",
+    description: "CSS framework",
+    imageUrl: "/imgs/logos/tailwind.svg",
+    bgColor: "bg-[#0EA5E9]/20",
+  },
+  {
+    name: "PostgreSQL",
+    description: "OR database system",
+    imageUrl: "/imgs/logos/postgresql.svg",
+    bgColor: "bg-[#336791]/20",
+  },
+  {
+    name: "MongoDB",
+    description: "NoSQL database",
+    imageUrl: "/imgs/logos/mongodb.svg",
+    bgColor: "bg-[#599636]/30",
   },
   {
     name: "Firebase",
@@ -83,22 +90,14 @@ export const techCardsItems = [
     imageUrl: "/imgs/logos/firebase.png",
     bgColor: "bg-[#FFCA28]/20",
   },
- 
   {
-    name: "Google Cloud",
-    description: "Cloud Platform",
-    imageUrl: "/imgs/logos/gcp.png",
-    bgColor: "bg-[#4285F4]/20",
+    name: "Supabase",
+    description: "Backend tool",
+    imageUrl: "/imgs/logos/supabase.svg",
+    bgColor: "bg-[#3ECF8E]/20",
   },
-  {
-    name: "AWS",
-    description: "Cloud Platform",
-    imageUrl: "/imgs/logos/aws.png",
-    bgColor: "bg-[#FF9900]/20",
-  },
-  
-  
 ];
+
 
 export const portfolioProjects = [
   {
