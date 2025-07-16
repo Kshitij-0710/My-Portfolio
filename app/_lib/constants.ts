@@ -2,7 +2,7 @@ export const techCardsItems = [
   {
     name: "Django",
     description: "Python Framework",
-    imageUrl: "/imgs/logos/Django-icon.svg",
+    imageUrl: "/imgs/logos/django.svg",
     bgColor: "bg-[#0ACF83]/20",
   },
   {
@@ -123,7 +123,7 @@ export const portfolioProjects = [
     subheading: "application for tracking your incomes and expenses.",
     description:
       "Track your incomes and expenses in an easy way. Clear chart overviews will improve your organization. The application is developed with react + typescript for frontend part, and nodejs with mongodb.",
-    imageUrl: "/imgs/projects/SOST.png",
+    imageUrl: "/imgs/projects/sost.png",
     techStack: [
       "React",
       "Django",
