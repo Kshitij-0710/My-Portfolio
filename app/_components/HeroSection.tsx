@@ -30,7 +30,7 @@ const HeroSection = () => {
             className="text-[40px] md:text-6xl lg:text-7xl font-bold text-center max-w-5xl leading-snug tracking-wide"
           />
           <p className="pt-5 pb-8 text-sm sm:text-base md:text-lg text-dark-200 dark:text-stone-200/70">
-          Hi, I'm Kshitij, I write code that transforms coffee-fueled ideas into mind-bending digital experiences.
+          Hi, I&apos;m Kshitij, I write code that transforms coffee-fueled ideas into mind-bending digital experiences.
           </p>
           <div className="flex flex-col sm:flex-row items-center gap-4">
             <ShinyButton icon={<ChevronRight />}>
