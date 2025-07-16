@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     default: "Kshitij Moghe",
   },
   description:
-    "Kshitij Moghe, web developer. Creating intuitive, visually stunning and highly functional applications integrated with AI",
+    "I am Kshitij Moghe — I build smooth, good-looking apps that think fast and work smarter",
 };
 
 export default function RootLayout({
