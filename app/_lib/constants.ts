@@ -225,9 +225,9 @@ export const workExperience = [
     company: "Opmaint",
     role: "Intern - FullStack Dev",
     location: "Remote",
-    period: "Jan 2025 - Present",
+    period: "Jan 2025 - June 2025",
     description:
-      "Developed and maintained scalable web applications using React, Django, and AWS. Led a team of 4 engineers to deliver a high-traffic SaaS product.",
+      "Opmaint is a mobile-first operations and maintenance management platform built with Django and Flutter. I contributed to its core development, implementing features like digital work orders, asset tracking, and multilingual support for real-time, field-ready operations.",
     techStack: ["React", "Django", "AWS", "PostgreSQL"],
     logo: "/imgs/work/opmaint.png",
     link: "https://www.opmaint.com/manufacturing",
@@ -236,9 +236,9 @@ export const workExperience = [
     company: "Journal of Me",
     role: "Full stack dev",
     location: "Remote",
-    period: "Jul 2021 - Dec 2022",
+    period: "Oct 2024 - Dec 2024",
     description:
-      "Built modern, responsive UIs with Flutter and React. Collaborated with designers and backend teams to deliver seamless user experiences.",
+      "ournal of Me is a voice-to-text journaling app built with Flutter and Django, enhanced with GPT-4o and Gemini for intelligent reflections, mood insights, and relationship detection—turning everyday thoughts into meaningful, organized entries.",
     techStack: ["Flutter", "Flutter", "TailwindCSS"],
     logo: "/imgs/work/journalOfMe.png",
     link: "https://www.journalof.me/",
