@@ -121,7 +121,7 @@ export const portfolioProjects = [
     heading: "SOST",
     subheading: "application for tracking your incomes and expenses.",
     description:
-      "Track your incomes and expenses in an easy way. Clear chart overviews will improve your organization. The application is developed with react + typescript for frontend part, and nodejs with mongodb.",
+      "SOST is an all-in-one, SOST platform designed for managing academic and operational data within the School of Sciences and Technology. It features a robust Django REST API backend and a sleek Flutter frontend, delivering a seamless and centralized experience for accessing, organizing, and visualizing institutional information across departments.",
     imageUrl: "/imgs/projects/sost.png",
     techStack: [
       "React",
@@ -138,8 +138,8 @@ export const portfolioProjects = [
     heading: "OCR Data Extractor Tool",
     subheading: "connect with your friends online",
     description:
-      "Beautifully designed social media application with all functionalities of modern social app. Users can create, edit, and delete posts, as well as explore posts from others. The app features profile management where users can view and edit their profiles, and also save posts for later.",
-    imageUrl: "/imgs/projects/portfolio-mockup1.png",
+      "The OLM-OCR Data Extraction Tool is a smart, open-source platform for extracting structured data from PDFs and images. Built with a FastAPI backend and Flutter frontend, it uses OlmOCR for text recognition and Qwen for parsing key entities, tables, and form data. The tool supports JSON, CSV, and TXT exports, and includes a custom Flutter-based pipeline visualization for a smooth, intuitive user experience.",
+    imageUrl: "/imgs/projects/OCR.png",
     techStack: [
       "OLM-OCR",
       "Fast API",
