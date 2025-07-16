@@ -238,7 +238,7 @@ export const workExperience = [
     location: "Remote",
     period: "Oct 2024 - Dec 2024",
     description:
-      "ournal of Me is a voice-to-text journaling app built with Flutter and Django, enhanced with GPT-4o and Gemini for intelligent reflections, mood insights, and relationship detection—turning everyday thoughts into meaningful, organized entries.",
+      "Journal of Me is a voice-to-text journaling app built with Flutter and Django, enhanced with GPT-4o and Gemini for intelligent reflections, mood insights, and relationship detection—turning everyday thoughts into meaningful, organized entries.",
     techStack: ["Flutter", "Flutter", "TailwindCSS"],
     logo: "/imgs/work/journalOfMe.png",
     link: "https://www.journalof.me/",
